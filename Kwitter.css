@@ -1,0 +1,30 @@
+body
+{
+    background-image: url("https://thumbs.dreamstime.com/b/chiang-mai-thailand-aug-man-using-twitter-app-xiaomi-mi-mix-chiang-mai-thailand-aug-man-using-twitter-app-xiaomi-mi-mix-159579191.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#logo{
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+}
+.heading{
+    font-size: 50px;
+    font-family: cursive;
+}
+.lbl{
+    font-size: 50px;
+}
+.log-in{
+    background-color: aliceblue;
+    width: 800px;
+    border-radius: 100px;
+    height: fit-content;
+}
+.user_input{
+width: 500px;
+height: 30px;
+border-radius: 10px;
+border-width: 1px;
+}
